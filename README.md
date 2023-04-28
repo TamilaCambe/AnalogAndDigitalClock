@@ -59,7 +59,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="" width="100px;" alt="Foto Tamila Cambé"/><br>
+        <img src="https://user-images.githubusercontent.com/97356148/200593308-6b8ee53d-ea7a-4653-a967-8624e625debd.jpg" width="100px;" alt="Foto Tamila Cambé"/><br>
         <sub>
           <b>Tamila Cambé</b>
         </sub>
